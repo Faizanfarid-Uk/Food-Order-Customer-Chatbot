@@ -29,7 +29,7 @@ This chatbot interacts with customers, answers menu and delivery questions, and 
 ---
 
 ## 📸 Screenshots Gallery
-<img src="https://github.com/user-attachments/assets/7a61570b-3a77-4163-b48c-b01e0aa70210" width="750">
+<img src="![Uploading Screenshot_29-1-2026_213046_localhost.jpeg…]()>
 <img src="https://github.com/user-attachments/assets/4d4d7612-4208-4888-8262-b3977a5b0ddb" width="750">
 
 ---
