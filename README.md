@@ -34,7 +34,7 @@ This chatbot interacts with customers, answers menu and delivery questions, and 
   <img src="https://github.com/Faizanfarid-Uk/Food-Order-Customer-Chatbot/blob/main/Screenshot_29-1-2026_213026_localhost.jpeg" width="750" />
 </p>
 >
-<img src="https://github.com/user-attachments/assets/4d4d7612-4208-4888-8262-b3977a5b0ddb" width="750">
+<img src="https://github.com/Faizanfarid-Uk/Food-Order-Customer-Chatbot/blob/main/Screenshot_29-1-2026_213046_localhost.jpeg"width="750" />
 
 ---
 
