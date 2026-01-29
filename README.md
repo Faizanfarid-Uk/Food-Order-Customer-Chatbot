@@ -38,4 +38,4 @@ This chatbot interacts with customers, answers menu and delivery questions, and 
 
 ### 1️⃣ Clone the Repository
 ```bash
-[git clone(https://github.com/Faizanfarid-Uk/Food-Order-Customer-Chatbot}
+[git clone https://github.com/Faizanfarid-Uk/Food-Order-Customer-Chatbot]
