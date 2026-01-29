@@ -1,6 +1,6 @@
-# 🍕 Kings Pizza Shop Customer Support Chatbot
+# Fast Food Order Customer Support Chatbot
 
-An AI-powered customer service chatbot built for **Kings Pizza Shop**, developed using **OpenAI GPT** and **Streamlit**.  
+An AI-powered customer service chatbot built for **Fast Food Order**, developed using **OpenAI GPT** and **Streamlit**.  
 This chatbot interacts with customers, answers menu and delivery questions, and even helps take pizza orders conversationally!
 
 ---
